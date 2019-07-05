@@ -28,6 +28,8 @@ Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training
 
 Inserting graphics    e.g. coffee-break & biscuits.   
 ![alt text](https://images.ladbible.com/thumbnail?type=webp&url=http://beta.ems.ladbiblegroup.com/s3/content/252967665c26d257e3bfb34deefeb61c.png&quality=70&width=720 "Logo Title Text 1")
+
+
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
